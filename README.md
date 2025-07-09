@@ -43,14 +43,16 @@ This project simulates a real-world phishing attack in a controlled virtual envi
 1. Launch SET with:  
    ```bash
    sudo setoolkit
-2. Navigate menus:
+ 2. Navigate menus:
    
   1) Social-Engineering Attacks  
   2) Website Attack Vectors  
   3) Credential Harvester Attack Method  
   2) Site Cloner
+     
 
-3. Enter Kali host-only IP address for POST back (e.g., 192.168.56.150).
+ 3:  
+   Enter Kali host-only IP address for POST back (e.g., 192.168.56.150).
 
 4. Enter target website URL to clone (examples:
     https://github.com/login
