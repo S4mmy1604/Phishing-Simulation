@@ -51,15 +51,16 @@ This project simulates a real-world phishing attack in a controlled virtual envi
   2) Site Cloner
      
 
- 3:  
-   Enter Kali host-only IP address for POST back (e.g., 192.168.56.150).
+ 3:  Enter Kali host-only IP address for POST back (e.g., 192.168.56.150).
 
-4. Enter target website URL to clone (examples:
-    https://github.com/login
-    https://phptravels.net/login)
+4:  Enter target website URL to clone (examples:
+    - https://github.com/login
+    - https://phptravels.net/login)
 
-5. Access cloned phishing page from Windows VM browser:
+
+5: Access cloned phishing page from Windows VM browser:
     http://192.168.56.150
+
 
 6. Submit fake credentials and observe captured output in Kali terminal.
 
