@@ -78,3 +78,11 @@ Port 80 in use by Apache: Resolved by stopping Apache service (sudo systemctl st
 Blank phishing page due to missing internet on victim: Enabled NAT adapter on Windows VM.
 
 Empty password fields due to JavaScript obfuscation: Limited by SET’s capabilities; advanced tools required for such sites.
+
+## Disclaimer
+This project is strictly for educational purposes within a controlled lab environment. Unauthorized phishing or credential harvesting is illegal and unethical.
+
+Feel free to explore, learn, and modify the setup for ethical cybersecurity training and red teaming practice.
+
+Author: Swayam
+Date: July 2025
