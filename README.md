@@ -84,5 +84,5 @@ This project is strictly for educational purposes within a controlled lab enviro
 
 Feel free to explore, learn, and modify the setup for ethical cybersecurity training and red teaming practice.
 
-Author: Swayam
-Date: July 2025
+- Author: Swayam
+- Date: July 2025
